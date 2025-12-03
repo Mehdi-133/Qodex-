@@ -311,3 +311,5 @@ SELECT Quiz.titre_quiz, Categories.nom_categorie
 FROM Quiz
 JOIN Categories ON Quiz.id_categorie = Categories.id_categorie;
 
+
+
